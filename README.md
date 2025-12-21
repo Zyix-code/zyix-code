@@ -33,6 +33,4 @@
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square" alt="Node.js">
 </p>
 
-<a href="" target="_blank"><img src="https://img001.prntscr.com/file/img001/BzkFXOYVQBa9J4kh8yc53A.png" alt="Zyix" style="max-width: 100%;"></a>
-
 
